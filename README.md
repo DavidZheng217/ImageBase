@@ -1,2 +1,2 @@
 # ImageBase
-Store images for markdown
+Store images for reports
