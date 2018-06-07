@@ -1,0 +1,1 @@
+Linear Trend + Seasonal Dummies (with AR(1,2,20) error term)

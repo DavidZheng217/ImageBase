@@ -1,0 +1,1 @@
+Point:SEP1988 + Point:MAY1990 + ARIMA p=(20) d=(1, 12) q=(1,3)(12) 
